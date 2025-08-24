@@ -1,7 +1,7 @@
 [project]
 name = "yjf-mcp"
 version = "0.1.0"
-description = "Add your description here"
+description = "Tool to locate YangJianfei"
 readme = "README.md"
 authors = [
     { name = "jianfei2024", email = "yangjianfei177@gmail.com" }
